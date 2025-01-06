@@ -1,5 +1,8 @@
 <p>
-	这个是雷尔的书籍，因国内不可抗因素，现在在开源平台提供下载书籍的地址。
+	所以为方便国内用户，现在国际开源平台<strong>G</strong><strong>ithub</strong>提供<strong>雷尔</strong>中文版下载书籍的地址。
+</p>
+<p>
+	其他书籍版本请访问国际官方网站：<a href="rael.org" target="_blank">rael.org</a>
 </p>
 <p>
 	1：来自外星人的讯息&nbsp;
