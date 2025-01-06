@@ -25,38 +25,73 @@
 <p>
 	<br />
 </p>
+<h2>
+	<strong>使者雷尔个人微博</strong>
+</h2>
 <p>
-	<br />
+	<strong><a href="https://x.com/maitreyarael" target="_blank">https://x.com/maitreyarael</a><br />
+</strong>
 </p>
 <p>
-	<br />
+	<strong><a href="https://www.facebook.com/rael.maitreya" target="_blank">https://www.facebook.com/rael.maitreya</a></strong>
 </p>
-<h3>
-	<h3 style="font-family:&quot;font-size:1.3em;font-weight:600;text-align:center;background-color:#FFFFFF;">
-		<strong>第三圣殿的建立</strong><span style="font-family:&quot;font-size:12px;font-weight:normal;"></span>
-	</h3>
-</h3>
+<p>
+	<strong><br />
+</strong>
+</p>
+<h2>
+	<strong>耶洛因揭秘介绍</strong>
+</h2>
 <p>
 	<strong>
-	<p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
-		雷尔利安运动是一个国际性的非营利组织。 有些人希望告知人类他们的真实起源，雷尔利安运动将这些人联合起来，向人们告知由耶洛因传达的非常特别的讯息，耶洛因是在地球上创造包括人类的所有生命的高度先进的外星科学家。
+	<p style="color:#636467;font-family:Verdana, &quot;font-size:16px;background-color:#FFFFFF;">
+		<span style="font-family:微软雅黑, sans-serif;">从今天起，在这个标题下，我将立刻向大家转达来自耶洛因的地球政府最机密机构里的最新全球局势情报。这些操纵星球局势的人从今天起必须意识到耶洛因正在观察我们，并且他们无所不知，在创造者耶洛因面前，没有任何政府的顶级机密或国家机密可以瞒得过他们。</span>
 	</p>
-	<p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
-		但是，传播这些知识并不是雷尔利安运动的唯一目标。 我们组织的另一个主要任务就是准备一个官方大使馆，以欢迎我们的创造者的回归。
+	<p style="color:#636467;font-family:Verdana, &quot;font-size:16px;background-color:#FFFFFF;">
+		<span style="font-family:微软雅黑, sans-serif;">我不确定接下来在我再揭露几个阴谋后我还能在地球上活多久，因为我现在被美国和以色列的机密机构的名单里被列 为是要被“终结”的人……但即使我消失了，会有人取代我，并从我们的创造者那里接收到情报，要么是新的最高指导员会取代我，要么是其他仅为了揭密而揭密的 人（他不会是新的先知，因为不再会有先知了），又或者是被选举出来的新的雷尔利安运动领导人。他的使命将是并仅限于揭露国家机密，仅此而已。耶洛因会确保 无论我发生了什么事，他们都会继续拯救地球人类。</span>
 	</p>
-	<p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
-		根据耶洛因提供的规格，大使馆必须建在已被授予治外法权和中立领空权利的中立地区。 提供这样的大使馆并获得有关其居住者权利的必要保证，将证明人类已经准备好与其创造者举行正式会面。
-	</p>
-	<p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
-		<br />
-	</p>
-	<p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
-		大使馆将为主办国带来可观的经济利益。 该幸运的国家还将获得耶洛因的特殊保护，并成为未来数千年中地球上精神文化和科学的中心，并繁荣昌盛。
+	<p style="color:#636467;font-family:Verdana, &quot;font-size:16px;background-color:#FFFFFF;">
+		<strong></strong>
 	</p>
 </strong>
 </p>
+<p>
+	<strong><a href="https://www.elohimleaks.org/zh-hans/" target="_blank">https://www.elohimleaks.org/zh-hans/</a></strong>
+</p>
+<p>
+	<strong><br />
+</strong>
+</p>
 <h3>
-	<span style="color:var( --e-global-color-text );font-family:&quot;font-size:12px;font-weight:normal;background-color:#FFFFFF;">有关所要求的大使馆的详细计划和规格，请访问：</span><a class="elementor-button elementor-button-link elementor-size-lg" href="https://etembassy.org/" target="_blank"><span class="elementor-button-content-wrapper" style="text-decoration:inherit;"><span class="elementor-button-text" style="text-decoration:inherit;">ETembassy.org</span></span></a>
+</h3>
+<h2 style="font-family:&quot;font-size:1.3em;font-weight:600;text-align:center;background-color:#FFFFFF;">
+	<strong>第三圣殿的建立</strong>
+</h2>
+<p>
+	<strong> </strong>
+</p>
+<p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
+	<strong>雷尔利安运动是一个国际性的非营利组织。 有些人希望告知人类他们的真实起源，雷尔利安运动将这些人联合起来，向人们告知由耶洛因传达的非常特别的讯息，耶洛因是在地球上创造包括人类的所有生命的高度先进的外星科学家。</strong>
+</p>
+<p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
+	<strong>但是，传播这些知识并不是雷尔利安运动的唯一目标。 我们组织的另一个主要任务就是准备一个官方大使馆，以欢迎我们的创造者的回归。</strong>
+</p>
+<p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
+	<strong>根据耶洛因提供的规格，大使馆必须建在已被授予治外法权和中立领空权利的中立地区。 提供这样的大使馆并获得有关其居住者权利的必要保证，将证明人类已经准备好与其创造者举行正式会面。</strong>
+</p>
+<p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
+	<strong><br />
+</strong>
+</p>
+<p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
+	<strong>大使馆将为主办国带来可观的经济利益。 该幸运的国家还将获得耶洛因的特殊保护，并成为未来数千年中地球上精神文化和科学的中心，并繁荣昌盛。</strong>
+</p>
+<p>
+	<br />
+</p>
+<h3>
+	<span style="color:var( --e-global-color-text );font-family:&quot;font-size:12px;font-weight:normal;background-color:#FFFFFF;">有关所要求的大使馆的详细计划和规格，请访问：</span><a class="elementor-button elementor-button-link elementor-size-lg" href="https://etembassy.org/" target="_blank"><span class="elementor-button-content-wrapper" style="text-decoration:inherit;"><span class="elementor-button-text" style="text-decoration:inherit;">ETembassy.org</span></span></a> 
 </h3>
 <p>
+	<br />
 </p>
