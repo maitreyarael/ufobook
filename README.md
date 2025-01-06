@@ -1,5 +1,8 @@
 <p>
-	为方便国内用户下载访问阅读雷尔书籍，现在国际开源平台<strong>G</strong><strong>ithub</strong>提供<strong>雷尔</strong>中文版PDF下载书籍的地址。
+	<h2>
+		<strong>来自外星人的讯息下载</strong>
+	</h2>
+为方便国内用户下载访问阅读雷尔书籍，现在国际开源平台<strong>G</strong><strong>ithub</strong>提供<strong>雷尔</strong>中文版PDF下载书籍的地址。
 </p>
 <p>
 	其他书籍版本请访问国际官方网站：<a href="rael.org" target="_blank">rael.org</a> 
@@ -82,7 +85,7 @@
 	<strong>但是，传播这些知识并不是雷尔利安运动的唯一目标。 我们组织的另一个主要任务就是准备一个迎接创造者耶洛因的大使馆，以欢迎我们的创造者的回归。</strong> 
 </p>
 <p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
-	<strong>根据耶洛因提供的规格，大使馆必须建在已被授予治外法权和中立领空权利的中立地区。 提供这样的大使馆并获得有关其居住者权利的必要保证，将证明人类已经准备好与其创造者举行正式会面。</strong>
+	<strong>根据耶洛因提供的规格，大使馆必须建在已被授予治外法权和中立领空权利的中立地区。 提供这样的大使馆并获得有关其居住者权利的必要保证，将证明人类已经准备好与其创造者举行正式会面。</strong> 
 </p>
 <p style="color:#00010A;font-family:&quot;font-size:23.04px;background-color:#FFFFFF;">
 	<br />
