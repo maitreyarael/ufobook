@@ -6,7 +6,7 @@
 	<br />
 </p>
 <p>
-	详情请访问雷尔利安运达国际官方网站：<a href="rael.org" target="_blank">rael.org</a> 
+	详情请访问雷尔利安运动国际官方网站：<a href="rael.org" target="_blank">rael.org</a> 
 </p>
 <p>
 	1：<a href="https://github.com/ufobook/rael/blob/main/%E6%9D%A5%E8%87%AA%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9A%84%E8%AE%AF%E6%81%AF.pdf" target="_blank">来自外星人的讯息.pdf</a> 
