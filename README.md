@@ -30,7 +30,7 @@
 	<br />
 </p>
 <h2>
-	<strong>使者雷尔个人微博</strong> 
+	<strong>关注使者雷尔（Rael.Maitreya）个人微博</strong> 
 </h2>
 
 <details>
@@ -125,6 +125,8 @@ AH71(2017)年3月30日于冲绳
 	<h2>
 		<strong>耶洛因揭秘介绍</strong>
 	</h2>
+<details>
+  <summary>折叠展示需手动点开</summary>
 	<p>
 		<strong></strong>
 	</p>
@@ -139,6 +141,8 @@ AH71(2017)年3月30日于冲绳
 		<strong><a href="https://www.elohimleaks.org/zh-hans/" target="_blank">https://www.elohimleaks.org/zh-hans/</a></strong>
 	</p>
 </p>
+</details>
+
 <p>
 	<br />
 </p>
